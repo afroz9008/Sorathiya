@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Sorathiya/static/css/main.64152621.chunk.css",
-    "main.js": "/Sorathiya/static/js/main.37f88010.chunk.js",
-    "main.js.map": "/Sorathiya/static/js/main.37f88010.chunk.js.map",
+    "main.css": "/Sorathiya/static/css/main.5845ae66.chunk.css",
+    "main.js": "/Sorathiya/static/js/main.e372481f.chunk.js",
+    "main.js.map": "/Sorathiya/static/js/main.e372481f.chunk.js.map",
     "runtime-main.js": "/Sorathiya/static/js/runtime-main.1623cac3.js",
     "runtime-main.js.map": "/Sorathiya/static/js/runtime-main.1623cac3.js.map",
     "static/css/2.75c4ecca.chunk.css": "/Sorathiya/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.fcdddefe.chunk.js": "/Sorathiya/static/js/2.fcdddefe.chunk.js",
-    "static/js/2.fcdddefe.chunk.js.map": "/Sorathiya/static/js/2.fcdddefe.chunk.js.map",
+    "static/js/2.0c18ee01.chunk.js": "/Sorathiya/static/js/2.0c18ee01.chunk.js",
+    "static/js/2.0c18ee01.chunk.js.map": "/Sorathiya/static/js/2.0c18ee01.chunk.js.map",
     "index.html": "/Sorathiya/index.html",
-    "precache-manifest.ddc717fe3b51661cfa03a2e8964fc6db.js": "/Sorathiya/precache-manifest.ddc717fe3b51661cfa03a2e8964fc6db.js",
+    "precache-manifest.c92f040e8e72aec0b0e24a2796ab2b3d.js": "/Sorathiya/precache-manifest.c92f040e8e72aec0b0e24a2796ab2b3d.js",
     "service-worker.js": "/Sorathiya/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/Sorathiya/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.64152621.chunk.css.map": "/Sorathiya/static/css/main.64152621.chunk.css.map",
-    "static/js/2.fcdddefe.chunk.js.LICENSE.txt": "/Sorathiya/static/js/2.fcdddefe.chunk.js.LICENSE.txt",
+    "static/css/main.5845ae66.chunk.css.map": "/Sorathiya/static/css/main.5845ae66.chunk.css.map",
+    "static/js/2.0c18ee01.chunk.js.LICENSE.txt": "/Sorathiya/static/js/2.0c18ee01.chunk.js.LICENSE.txt",
     "static/media/contactImg.svg": "/Sorathiya/static/media/contactImg.64fb8a6c.svg",
     "static/media/img1.jpg": "/Sorathiya/static/media/img1.6ecbee89.jpg",
     "static/media/undraw_chat_bot_kli5.svg": "/Sorathiya/static/media/undraw_chat_bot_kli5.f3bdf9ef.svg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.1623cac3.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.fcdddefe.chunk.js",
-    "static/css/main.64152621.chunk.css",
-    "static/js/main.37f88010.chunk.js"
+    "static/js/2.0c18ee01.chunk.js",
+    "static/css/main.5845ae66.chunk.css",
+    "static/js/main.e372481f.chunk.js"
   ]
 }
